@@ -4,7 +4,7 @@ const students = [
     { id: 3, name: "Kiran", marks: 35 },
     { id: 4, name: "Sneha", marks: 88 },
     { id: 5, name: "Arjun", marks: 40 }
-  ];
+];
 
 // filter() students who passed (marks ≥ 40)
 let result1 = students.filter(ele => ele>=40)
