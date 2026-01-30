@@ -1,4 +1,4 @@
-//Validate task title (not empty, min 3 chars)
+// Validate task title (not empty, min 3 chars)
 function validateTitle(title) {
   if(title!="" && title.length<=3)
     return false

@@ -10,7 +10,7 @@ const publishedCourses = courses.filter(c => c.published);
 // Sort by price (high → low)
 const sortedByPrice = [...publishedCourses].sort((a, b) => b.price - a.price);
 
-// Extract title & price
+// Extract  title & price
 const courseSummary = publishedCourses.map(({ title, price }) => ({ title, price }));
 
 // Total value of published courses

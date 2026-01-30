@@ -1,4 +1,4 @@
-const marks = {
+ const marks = {
   maths: 78,
   physics: 65,
   chemistry: 82,

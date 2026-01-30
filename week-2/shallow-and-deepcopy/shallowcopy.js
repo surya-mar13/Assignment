@@ -1,7 +1,7 @@
  
 /*
               const user = {
-                id: 101,
+                 id: 101,
                 name: "Ravi",
                 preferences: {
                   theme: "dark",

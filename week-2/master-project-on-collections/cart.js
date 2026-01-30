@@ -6,7 +6,7 @@ const courses = [
   { id: 101, title: "JavaScript", price: 999, published: true },
   { id: 102, title: "React", price: 1499, published: false },
   { id: 103, title: "Node", price: 1299, published: true }
-];
+ ];
 
 
 // Merge cart with course details

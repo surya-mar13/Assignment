@@ -10,7 +10,7 @@ const activeUsers = users.filter(u => u.active);
 // Names of active users
 const activeUserNames = activeUsers.map(u => u.name);
 
-// Check if admin exists
+// Check if  admin exists
 const adminExists = users.some(u => u.role === "admin");
 
 // Find user by id

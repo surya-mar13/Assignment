@@ -1,4 +1,4 @@
-import { getProductById, checkStock } from './product.js';
+ import { getProductById, checkStock } from './product.js';
 
 let cartItems = [];
 

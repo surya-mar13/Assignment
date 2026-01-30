@@ -1,4 +1,4 @@
-import { getAllProducts, searchProducts } from './product.js';
+ import { getAllProducts, searchProducts } from './product.js';
 import {
   addToCart,
   getCartItems,

@@ -3,7 +3,7 @@ const transactions = [
   { id: 2, type: "debit", amount: 2000 },
   { id: 3, type: "credit", amount: 10000 },
   { id: 4, type: "debit", amount: 3000 }
-];
+] ;
 let result1 = transactions.filter(ele=>ele.type==="credit");
 console.log(result1);
 

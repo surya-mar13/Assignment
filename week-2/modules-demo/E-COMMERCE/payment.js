@@ -1,4 +1,4 @@
-import { reduceStock } from './product.js';
+ import { reduceStock } from './product.js';
 import { getCartItems, getCartTotal, clearCart } from './cart.js';
 import { applyDiscount } from './discount.js';
 

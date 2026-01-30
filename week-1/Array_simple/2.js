@@ -6,7 +6,7 @@ console.log(res1)
 let res2 = marks.map(ele=>ele+5)
 console.log(res2)
 
-let res3 = marks.reduce((accumulator,ele)=>(accumulator>ele)?accumulator:ele)
+ let res3 = marks.reduce((accumulator,ele)=>(accumulator>ele)?accumulator:ele)
 console.log(res3)
 
 let res4 = marks.find(ele=>ele<40)

@@ -6,7 +6,7 @@ Tasks:
       * Today is before deadline → "Enrollment Open"
       * Today is after deadline → "Enrollment Closed"
 
-  2. Validate user input date:
+  2. Validate  user input date:
       * Input: "2026-02-30"
       * Detect whether the date is valid or invalid */
 

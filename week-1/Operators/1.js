@@ -1,5 +1,5 @@
 function bill(a)
-{
+ {
     a+=500
     a+=1200
     a-=200

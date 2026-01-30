@@ -1,4 +1,4 @@
-import { addTask, getAllTasks, completeTask } from "./task.js";
+ import { addTask, getAllTasks, completeTask } from "./task.js";
 
 //Add tasks
 console.log(addTask("Learn JavaScript", "high", "2026-02-10"));

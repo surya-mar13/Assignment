@@ -5,7 +5,7 @@ const employees = [
     { id: 204, name: "Pooja", salary: 30000, department: "Sales" }
   ];
 
-// filter() employees from IT department
+// filter()  employees from IT department
 let result1 = employees.filter(ele => ele.department == "IT")
 console.log(result1)
 

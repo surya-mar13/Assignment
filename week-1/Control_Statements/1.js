@@ -1,4 +1,4 @@
-function status(l,p){
+ function status(l,p){
     if(!l)
     {
         console.log("Please login")

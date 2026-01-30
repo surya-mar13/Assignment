@@ -6,7 +6,7 @@ console.log(res1)
 let res2 = temperatures.map(ele=>(ele=(9*ele)/5)+32)
 console.log(res2)
 
-let res3 = temperatures.reduce((accumulator,ele)=>accumulator+ele)
+ let res3 = temperatures.reduce((accumulator,ele)=>accumulator+ele)
 console.log(res3/temperatures.length)
 
 let res4 = temperatures.find(ele=>ele>40)

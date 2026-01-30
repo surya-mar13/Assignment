@@ -22,4 +22,4 @@ let result4 = movies.find(ele => ele.title==="Joker");
 console.log(result4)
 
 let result5 = movies.findIndex(ele => ele.title==="Avengers")
-console.log(result5)
+ console.log(result5)

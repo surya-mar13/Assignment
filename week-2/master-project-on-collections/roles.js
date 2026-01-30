@@ -9,7 +9,7 @@ const roleNames = Object.keys(roles);
 // Check if student can delete
 const studentCanDelete = roles.student.includes("delete");
 
-// Flat list of all unique permissions
+// Flat list of  all unique permissions
 const allPermissions = [
   ...new Set(Object.values(roles).flat())
 ];

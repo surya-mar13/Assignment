@@ -1,4 +1,4 @@
-import { validateTitle, validatePriority, validateDueDate } from "./validator.js";
+ import { validateTitle, validatePriority, validateDueDate } from "./validator.js";
 
 const tasks = [];
 
