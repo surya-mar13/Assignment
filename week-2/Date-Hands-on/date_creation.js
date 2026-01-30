@@ -6,7 +6,7 @@
                     * Date
                     * Day of week
                     * Hours, minutes, seconds
-
+ 
       3. Display the date in this format:
                     DD-MM-YYYY HH:mm:ss */
 
