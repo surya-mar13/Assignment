@@ -5,7 +5,7 @@ const cart = [
   { id: 104, name: "Monitor", price: 12000, quantity: 1, inStock: true }
 ];
 
-//filter() to get only inStock products
+//filter()   to get only inStock products
 let res1 = cart.filter(ele=>ele.inStock)
 console.log(res1)
 
