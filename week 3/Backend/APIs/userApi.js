@@ -9,7 +9,7 @@ const userApp = exp.Router()
 userApp.get('/users', async (req, res) => {
   const userslist = await userModel.find()
   res.status(200).json({
-    message: "users data",
+    message: "users  data",
     payload: userslist
   })
 })
