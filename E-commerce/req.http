@@ -1,0 +1,20 @@
+###Create product req
+POST http://localhost:3000/productAPI/products
+Content-Type:application/json
+
+{
+    "productName":"tv",
+    "price":7000,
+    "brand":"sony"
+}
+
+### Create 
+POST http://localhost:3000/users
+Content-Type:application/json
+
+{
+    "name":"surya",
+    "email":"suryaabhig@gmail.com",
+    "password":"suryaabhi"
+    
+}
